@@ -1,0 +1,9 @@
+                category = product['category']
+                if type(category) == str:
+                  # transformed category to upper case
+                    product['category'] = category.upper()
+            # if product category is ELECTRONICS then discount 50% else 10%
+                if(category=='ELECTRONICS'):
+                    product['price'] = round(product['price'] * 0.5, 2)
+                else:
+                    product['price'] = round(product['price'] * 0.9, 2)

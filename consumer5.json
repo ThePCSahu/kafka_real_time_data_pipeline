@@ -1,0 +1,19 @@
+{"id": 9, "name": "Desktop Computer", "category": "ELECTRONICS", "price": 1350.0, "last_updated": "2024-07-07T04:01:36+00:00"}
+{"id": 11, "name": "Running Shoes", "category": "FOOTWEAR", "price": 89.95, "last_updated": "2024-07-07T04:01:36+00:00"}
+{"id": 15, "name": "Sunglasses", "category": "ACCESSORIES", "price": 116.95, "last_updated": "2024-07-07T04:01:36+00:00"}
+{"id": 22, "name": "Power Bank", "category": "ACCESSORIES", "price": 44.96, "last_updated": "2024-07-07T04:02:39+00:00"}
+{"id": 25, "name": "Wireless Earbuds", "category": "ELECTRONICS", "price": 116.99, "last_updated": "2024-07-07T04:02:47+00:00"}
+{"id": 28, "name": "Duffle Bag", "category": "ACCESSORIES", "price": 62.95, "last_updated": "2024-07-07T04:02:47+00:00"}
+{"id": 30, "name": "Skirt", "category": "CLOTHING", "price": 35.99, "last_updated": "2024-07-07T04:02:54+00:00"}
+{"id": 35, "name": "Mouse Pad", "category": "ACCESSORIES", "price": 8.95, "last_updated": "2024-07-07T04:02:54+00:00"}
+{"id": 42, "name": "Smartwatch", "category": "ELECTRONICS", "price": 269.1, "last_updated": "2024-07-07T04:03:02+00:00"}
+{"id": 47, "name": "Gaming Console", "category": "ELECTRONICS", "price": 359.1, "last_updated": "2024-07-07T04:03:02+00:00"}
+{"id": 50, "name": "Portable Charger", "category": "ACCESSORIES", "price": 31.46, "last_updated": "2024-07-07T04:03:09+00:00"}
+{"id": 55, "name": "Gloves", "category": "CLOTHING", "price": 17.99, "last_updated": "2024-07-07T04:03:09+00:00"}
+{"id": 56, "name": "Sleeping Pad", "category": "OUTDOOR", "price": 44.96, "last_updated": "2024-07-07T04:03:09+00:00"}
+{"id": 57, "name": "Drone", "category": "ELECTRONICS", "price": 539.1, "last_updated": "2024-07-07T04:03:09+00:00"}
+{"id": 60, "name": "Robot Vacuum", "category": "HOME", "price": 314.1, "last_updated": "2024-07-07T04:03:09+00:00"}
+{"id": 62, "name": "Action Camera", "category": "ELECTRONICS", "price": 179.99, "last_updated": "2024-07-07T04:03:18+00:00"}
+{"id": 77, "name": "Hiking Backpack", "category": "OUTDOOR", "price": 134.95, "last_updated": "2024-07-07T04:03:25+00:00"}
+{"id": 78, "name": "Smart Thermostat", "category": "ELECTRONICS", "price": 161.1, "last_updated": "2024-07-07T04:03:25+00:00"}
+{"id": 79, "name": "Yoga Pants", "category": "CLOTHING", "price": 31.49, "last_updated": "2024-07-07T04:03:25+00:00"}

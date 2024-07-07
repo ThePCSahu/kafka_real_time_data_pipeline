@@ -1,0 +1,1 @@
+SELECT id, name, category, price, last_updated FROM buyonline.product WHERE last_updated > %s ORDER BY last_updated

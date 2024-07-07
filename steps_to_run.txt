@@ -1,0 +1,13 @@
+step 1. Install the following packages
+
+pip install mysql-connector-python
+pip install fastavro
+pip install python-dotenv
+
+step 2. DB/ Kafka configurations can be changed from producer.env and consumer.env
+step 3. Start mysql server and use manual scripts to insert data into table one by one. (Don't insert all data at once)
+step 4. Start 5 instances of consumer code in parallel.
+step 5. Run the producer code to load the data from Mysql table into producer.
+Now as soon as all records are loaded to producer,consumers should start parallely to consumer all records.
+step 6. Load more records in the mysql table and run the producer.
+Now producer should pick the records loaded after the records already were present in the table before the first iteration and these records must be picked up by the consumers automatically.
